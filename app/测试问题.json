@@ -1,0 +1,602 @@
+[
+    {
+        "question": "怎样加热座椅？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "自动模式下，中央显示屏是如何切换日间和夜间模式的？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "如何通过中央显示屏进行副驾驶员座椅设置？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "副仪表台按钮如何操作中央显示屏？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "如何从锁定状态唤醒中央显示器?",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "如何正确使用颈椎保护系统？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "前方交叉路口预警系统（FCTA）的作用是什么？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "在使用FCTA时需要注意哪些事项？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "如何打开车辆尾门？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "在哪些情况下智能钥匙可能会受到干扰，导致功能异常？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "车辆尾门的防夹保护功能是如何工作的？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "在操作电动后备厢时需要注意哪些事项？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "如何进入车辆功能界面？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "在车辆功能界面有哪些操作选项？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "如何编辑快捷开关图标?",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "如何减少车辆腐蚀风险？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "如何通过空调系统面板调节空调风量？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "如何创建新的Lynk&CoID？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "什么是车主账户？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "如何创建人脸识别？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "如何添加亲情账号？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "如何开启或关闭用车偏好自动同步？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "如何熄火我的车辆？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "如何通过遥控钥匙启动车辆？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "如果遥控钥匙电池电量低，我应该如何启动车辆？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "如何调节外后视镜？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "外部反光境显示物体距离是否准确?",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "什么是自动驻车系统？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "在什么情况下会停用AutoHold并启用EPB功能？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "中央扶手箱的USB接口有几个？它们分别是什么类型？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "中央扶手箱所支持的U盘及数据传输格式有哪些？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "如何通过中央显示屏调节驾驶员侧座椅通风强度？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "如何关闭前排座行车通风功能？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "如何进入系统设置界面？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "在系统界面可以进行哪些操作？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "什么是无钥匙进入系统？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "如何设置无钥匙解锁模式？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "设置无钥匙解锁中单门和全车的区别在于什么？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "驾驶车辆时应遵守哪些注意事项？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "如何启用或停用手套箱密码保护功能？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "驾驶员状态监测系统是如何工作的？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "什么情况下会影响到驾驶员状态监测系统的工作？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "如何启用后排儿童锁功能？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "安全气囊是什么？它的作用是什么？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "如果未使用或未正确使用安全带，会对安全气囊有何影响？ ",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "在使用车辆时，有哪些安全气囊的注意事项？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "如何开启动力电池电量保持功能？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "在开启动力电池的情况下，选择经济性优先和充电速度优先有什么区别？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "后方碰撞预警系统在什么情况下会启动？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "如何调整方向盘的位置？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "什么情况下不能调节车辆的方向盘？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "如何通过手机APP启动车辆？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "什么是陡坡缓降系统（HDC什么是陡坡缓降系统（HDC）？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "当坡度过大时，如何操作才能使车辆保持匀速地行驶？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "在什么情况下HDC会激活？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "在什么情况下无法激活或自动退出HDC功能？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "开启陡坡缓降系统后，组合仪表显示什么颜色的指示灯？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "激活陡坡缓降系统时，组合仪表显示什么颜色的指示灯？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "当陡坡缓降系统出现故障时，组合仪表会显示怎样的提示？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "坡道辅助系统的主要功能是什么？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "使用坡道辅助系统时需要注意哪些警告？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "在有路缘石的上坡和下坡驻车时，应如何操作？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "新车在最初的2000km行驶期间应遵守哪些事项？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "当刹车片将达到最小安全厚度时会有什么表现？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "如果听到持续的高频尖锐噪声应该怎么做？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "风挡摄像头和前雷达在什么情况下会弹出警示消息？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "如何通过蓝牙钥匙启动车辆？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "在什么情况下无法通过蓝牙钥匙启动车辆？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "如何通过网络远程启动发动机？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "变道辅助系统由哪三部分组成？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "如何检查制动液液位？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "如何调节车辆的背光亮度？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "在白天和夜晚，开启和未开启整车背光联动时，转动调光旋钮有什么不同？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "当车辆发生故障时，应该如何处理？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "为什么不建议自行修理车辆故障？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "什么是能量回收系统？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "如何知道车辆正在进行能量回收？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "影响能量回收多少的因素有哪些？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "什么是智能远近光控制系统？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "在什么情况下可以开启智能远近光控制系统？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "哪些因素可能导致智能远近光控制系统无法正常工作？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "如何启用前除霜/除雾功能？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "当我开启前挡风玻璃的去冰去雾模式时，车辆会有什么反应？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "为什么驾驶之前需要确保挡风玻璃无冰渣、积雪或冷凝水？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "什么情况下车辆需要进行报废处理？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "什么是遥控泊车（RPA）？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "使用Lynk&CoApp的RPA功能需要注意什么？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "如何开启方向盘助力与驾驶模式联动？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "有哪些可选的方向盘转向助力模式？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "主动式座舱清洁系统的作用是什么？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "全景天窗是由几部分组成的？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "如何使用位置记忆功能？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "如何更换后挡风玻璃雨刮片？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "在更换雨刮片时需要注意什么？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "如何添加香氛精油？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "我应该在哪里添加香氛精油？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "什么是转向助力系统？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "涉水行驶前应注意什么？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "涉水驾驶后需要进行哪些检查？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    },
+    {
+        "question": "什么时候应该为车辆打蜡？",
+        "answer_1": "",
+        "answer_2": "",
+        "answer_3": ""
+    }
+]
