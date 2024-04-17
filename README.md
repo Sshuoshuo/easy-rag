@@ -42,9 +42,11 @@
 
 下载地址：[BAAI/bge-reranker-large · Hugging Face](https://huggingface.co/BAAI/bge-reranker-large)
 
-## 脚本
+## 完整运行脚本
 
 ```bash
+git clone https://github.com/Sshuoshuo/easy-rag.git
+cd easy-rag
 bash app/run.sh
 ```
 
