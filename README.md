@@ -42,11 +42,18 @@
 
 下载地址：[BAAI/bge-reranker-large · Hugging Face](https://huggingface.co/BAAI/bge-reranker-large)
 
+## 显存需求
+
+目前本项目未进行任何推理优化，示例数据显存占用约为19G左右，使用单卡3090或者4090均可。
+
 ## 完整运行脚本
 
 ```bash
 git clone https://github.com/Sshuoshuo/easy-rag.git
 cd easy-rag
+conda create -n easy_rag python=3.9
+conda activate easy_rag
+pip install -r requirement.txt
 bash app/run.sh
 ```
 
@@ -78,4 +85,6 @@ bash app/run.sh
 
 4、后续demo数据集计划使用[Multi-CPR: 大规模段落检索多领域中文数据集_数据集-阿里云天池 (aliyun.com)](https://tianchi.aliyun.com/dataset/132745)
 
-5、优化方案
+5、显存与推理速度优化
+
+6、RAG方案优化
